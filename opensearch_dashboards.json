@@ -1,6 +1,6 @@
 {
   "version": "0.5.0",
   "opensearchDashboardsVersion": "2.7.0",
-  "server": true,
+  "server": false,
   "ui": true
 }
