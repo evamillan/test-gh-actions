@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "$version",
   "opensearchDashboardsVersion": "2.7.0",
   "server": true,
   "ui": true
